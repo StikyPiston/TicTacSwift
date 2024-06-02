@@ -1,4 +1,3 @@
 # Tic Tac Swift
 
-A description of this package.
-# TicTacSwift
+A Tic Tac Toe game made in Swift!
